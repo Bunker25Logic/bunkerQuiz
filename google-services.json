@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693771181017",
+    "project_id": "bunkerquiz-bc241",
+    "storage_bucket": "bunkerquiz-bc241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693771181017:android:9510dffa71aeef02e0d7c8",
+        "android_client_info": {
+          "package_name": "com.bunker25logic.BunkerQuiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693771181017-9r3cchpc1gf140rk9i3qirhtod0cf1j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bunker25logic.BunkerQuiz",
+            "certificate_hash": "13d3c0a8a7e7aac1416ddaa7e4425ae8996435a7"
+          }
+        },
+        {
+          "client_id": "693771181017-ctm3ljil3i90seej0rqrimlvsa0b06r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARhGzU3H5m8E-_lXXUqLgXHEVylH_jbY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693771181017-ctm3ljil3i90seej0rqrimlvsa0b06r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

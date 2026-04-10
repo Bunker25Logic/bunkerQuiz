@@ -1,0 +1,41 @@
+{
+  "identidadeVisual": {
+    "marca": {
+      "nomeOficial": "Bunker25 Logic",
+      "nomeAlternativo": "Bunker25",
+      "estetica": [
+        "Cyberpunk",
+        "Synthwave",
+        "Dev Retro"
+      ],
+      "conceito": "Segurança, organização e processamento de conhecimento ('Bunker') focados na resolução de problemas e desembaraço de códigos ('Logic')."
+    },
+    "paletaDeCores": {
+      "baseFundo": {
+        "cor": "#1A0B2E",
+        "nome": "Roxo Profundo",
+        "aplicacao": "Mistério e Profundidade"
+      },
+      "destaqueAcao": {
+        "cor": "#39FF14",
+        "nome": "Verde Neon",
+        "aplicacao": "Código, Sucesso e Terminal"
+      },
+      "suporteEstrutura": {
+        "cor": "#2E5BFF",
+        "nome": "Azul Cobalto",
+        "aplicacao": "Confiança e Bordas"
+      }
+    },
+    "tipografia": {
+      "titulosELogo": {
+        "fonte": "Orbitron",
+        "caracteristicas": "Futurista e geométrica"
+      },
+      "textoECorpo": {
+        "fonte": "Oxanium",
+        "caracteristicas": "Tech, legível e quadrada"
+      }
+    }
+  }
+}
